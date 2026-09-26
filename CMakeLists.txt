@@ -17,6 +17,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/ConstructYaml.msg"
   "msg/Battery.msg"
   "msg/Sphere.msg"
+  "msg/Data.msg"
+  "msg/RectMsg.msg"
   "srv/ConstructYaml.srv"
   "srv/WhichMaps.srv"
   "srv/WhichVel.srv"
